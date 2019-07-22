@@ -1,0 +1,11 @@
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\bin\Debug\netcoreapp2.2\GiaoDichInterface.deps.json
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\bin\Debug\netcoreapp2.2\GiaoDichInterface.runtimeconfig.json
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\bin\Debug\netcoreapp2.2\GiaoDichInterface.runtimeconfig.dev.json
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\bin\Debug\netcoreapp2.2\GiaoDichInterface.dll
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\bin\Debug\netcoreapp2.2\GiaoDichInterface.pdb
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\obj\Debug\netcoreapp2.2\GiaoDichInterface.csprojAssemblyReference.cache
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\obj\Debug\netcoreapp2.2\GiaoDichInterface.csproj.CoreCompileInputs.cache
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\obj\Debug\netcoreapp2.2\GiaoDichInterface.AssemblyInfoInputs.cache
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\obj\Debug\netcoreapp2.2\GiaoDichInterface.AssemblyInfo.cs
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\obj\Debug\netcoreapp2.2\GiaoDichInterface.dll
+C:\Users\Bach\RiderProjects\GiaoDichInterface\GiaoDichInterface\obj\Debug\netcoreapp2.2\GiaoDichInterface.pdb
